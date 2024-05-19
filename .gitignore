@@ -22,7 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-LanguageModelClassifier/data/*
+LanguageModelClassifier/data/train_dataset/*
+LanguageModelClassifier/data/val_dataset/*
+LanguageModelClassifier/models/*
+LanguageModelClassifier/results/*
 
 .vite-react-ssg-temp/
 cache-images
